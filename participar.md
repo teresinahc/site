@@ -43,6 +43,7 @@ Se quiser propor uma atividade ou ajudar a organizar, chega junto.
 
 ## Canais de Comunicação
 
+- Telegram (grupo público): [telegram.teresinahacker.club](https://telegram.teresinahacker.club)
 - Instagram: [@teresinahc](https://instagram.com/teresinahc)
 - Facebook: [facebook.com/TeresinaHC](https://www.facebook.com/TeresinaHC/)
 - E-mail: [contato@teresinahacker.club](mailto:contato@teresinahacker.club)

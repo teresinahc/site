@@ -11,8 +11,9 @@ A ideia é organizar oficinas, bate-papos, eventos e outras ações ligadas à c
 
 Enquanto não temos uma agenda fixa, você pode acompanhar os anúncios:
 
-- Pelo [Instagram](https://instagram.com/teresinahc)
-- Pelo [Facebook](https://facebook.com/TeresinaHC)
+- Telegram (grupo público): [telegram.teresinahacker.club](https://telegram.teresinahacker.club)
+- Instagram: [@teresinahc](https://instagram.com/teresinahc)
+- Facebook: [facebook.com/TeresinaHC](https://www.facebook.com/TeresinaHC/)
 - E futuramente, por uma lista de e-mails ou grupo aberto
 
 Se quiser propor uma atividade, palestra, oficina ou encontro — virtual ou presencial — manda mensagem!
