@@ -5,3 +5,5 @@ url: https://teresinahacker.club
 color_scheme: dark
 logo: /assets/images/logo.png
 favicon_ico: /assets/images/thc_logo.png
+just_the_docs:
+  footer_content: none

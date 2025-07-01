@@ -1,7 +1,7 @@
 {"0": {
     "doc": "Agenda",
     "title": "Agenda",
-    "content": "Estamos retomando nossas atividades e planejando encontros regulares em breve. A ideia é organizar oficinas, bate-papos, eventos e outras ações ligadas à cultura hacker e ao uso criativo da tecnologia. Enquanto não temos uma agenda fixa, você pode acompanhar os anúncios: . | Pelo Instagram | Pelo Facebook | E futuramente, por uma lista de e-mails ou grupo aberto | . Se quiser propor uma atividade, palestra, oficina ou encontro — virtual ou presencial — manda mensagem! . Queremos construir essa agenda de forma aberta e colaborativa. ",
+    "content": "Estamos retomando nossas atividades e planejando encontros regulares em breve. A ideia é organizar oficinas, bate-papos, eventos e outras ações ligadas à cultura hacker e ao uso criativo da tecnologia. Enquanto não temos uma agenda fixa, você pode acompanhar os anúncios: . | Telegram (grupo público): telegram.teresinahacker.club | Instagram: @teresinahc | Facebook: facebook.com/TeresinaHC | E futuramente, por uma lista de e-mails ou grupo aberto | . Se quiser propor uma atividade, palestra, oficina ou encontro — virtual ou presencial — manda mensagem! . Queremos construir essa agenda de forma aberta e colaborativa. ",
     "url": "/agenda.html",
     
     "relUrl": "/agenda.html"
@@ -20,97 +20,104 @@
     
     "relUrl": "/apoio.html"
   },"3": {
-    "doc": "Teresina Hacker Clube",
+    "doc": "Início",
     "title": "Teresina Hacker Clube",
-    "content": "Um hackerspace em construção coletiva desde 2014. Tecnologia, liberdade, aprendizado, gambiarras e encontros que transformam. “Muita gente pequena, em lugares pequenos, fazendo coisas pequenas, pode mudar o mundo.” — Eduardo Galeano . Saiba mais em Sobre ou veja Como Participar. ",
+    "content": "Um hackerspace em construção coletiva desde 2014. Tecnologia, liberdade, aprendizado, gambiarras e encontros que transformam. Saiba mais em Sobre ou veja Como Participar. “Muita gente pequena, em lugares pequenos, fazendo coisas pequenas, pode mudar o mundo.” — Eduardo Galeano . ",
+    "url": "/#teresina-hacker-clube",
+    
+    "relUrl": "/#teresina-hacker-clube"
+  },"4": {
+    "doc": "Início",
+    "title": "Início",
+    "content": " ",
     "url": "/",
     
     "relUrl": "/"
-  },"4": {
+  },"5": {
     "doc": "Como Participar",
     "title": "Como Participar",
     "content": "Quer colar com a gente? Aqui tem algumas formas de participar, colaborar e ajudar o THC a continuar pulsando. ",
     "url": "/participar.html",
     
     "relUrl": "/participar.html"
-  },"5": {
+  },"6": {
     "doc": "Como Participar",
     "title": "Sede Física",
     "content": "O Teresina Hacker Clube já teve uma sede física — espaço aberto, de uso coletivo e com muito afeto envolvido. Hoje estamos tentando retomar esse espaço ou encontrar um novo lugar para chamar de nosso. Enquanto isso, nossas atividades estão sendo organizadas online ou em espaços parceiros (escolas, universidades, eventos, oficinas comunitárias etc). Se você tem interesse em ajudar com isso (inclusive com local ou parcerias), fala com a gente. ",
     "url": "/participar.html#sede-f%C3%ADsica",
     
     "relUrl": "/participar.html#sede-física"
-  },"6": {
+  },"7": {
     "doc": "Como Participar",
     "title": "Lista de E-mail",
     "content": "Estamos estruturando uma lista de discussão pública para trocas, avisos e convites. Enquanto isso, se quiser receber novidades ou trocar uma ideia, envie um e-mail para: contato@teresinahacker.club . ",
     "url": "/participar.html#lista-de-e-mail",
     
     "relUrl": "/participar.html#lista-de-e-mail"
-  },"7": {
+  },"8": {
     "doc": "Como Participar",
     "title": "Encontros Presenciais e Virtuais",
     "content": "Em breve vamos retomar os encontros abertos (virtuais e presenciais) com temas como: . | Cultura hacker, software livre e autonomia digital | Oficinas de eletrônica, robótica e segurança | Leituras coletivas e debates sobre tecnologia e sociedade | Construção colaborativa do novo momento do THC | . Se quiser propor uma atividade ou ajudar a organizar, chega junto. ",
     "url": "/participar.html#encontros-presenciais-e-virtuais",
     
     "relUrl": "/participar.html#encontros-presenciais-e-virtuais"
-  },"8": {
+  },"9": {
     "doc": "Como Participar",
     "title": "Canais de Comunicação",
-    "content": ". | Instagram: @teresinahc | Facebook: facebook.com/TeresinaHC | E-mail: contato@teresinahacker.club | . ",
+    "content": ". | Telegram (grupo público): telegram.teresinahacker.club | Instagram: @teresinahc | Facebook: facebook.com/TeresinaHC | E-mail: contato@teresinahacker.club | . ",
     "url": "/participar.html#canais-de-comunica%C3%A7%C3%A3o",
     
     "relUrl": "/participar.html#canais-de-comunicação"
-  },"9": {
+  },"10": {
     "doc": "Como Participar",
     "title": "Git &amp; Projetos",
     "content": "Nossos projetos e experimentações são abertos — e todo mundo pode ver, sugerir ou contribuir. | github.com/teresinahc | . ",
     "url": "/participar.html#git--projetos",
     
     "relUrl": "/participar.html#git--projetos"
-  },"10": {
+  },"11": {
     "doc": "Como Participar",
     "title": "Apoio Coletivo",
     "content": "O THC é mantido por pessoas comuns com sonhos coletivos. Ainda estamos estruturando formas de apoio recorrente, como campanhas mensais. Mas, se você quiser ajudar com ideias, equipamentos, divulgação ou qualquer outra forma de apoio, só chamar. “Conhecimento compartilhado é poder multiplicado.” . ",
     "url": "/participar.html#apoio-coletivo",
     
     "relUrl": "/participar.html#apoio-coletivo"
-  },"11": {
+  },"12": {
     "doc": "Projetos",
     "title": "Projetos",
     "content": "O Teresina Hacker Clube é um espaço para criar, experimentar e compartilhar. Ao longo dos anos, desenvolvemos algumas iniciativas que misturam tecnologia, criatividade e transformação social. ",
     "url": "/projetos.html",
     
     "relUrl": "/projetos.html"
-  },"12": {
+  },"13": {
     "doc": "Projetos",
     "title": "Peba",
     "content": "Repositório no GitHub . O Peba é um sistema de indexação e busca que reúne, em uma fonte única, informações relacionadas às despesas de várias entidades governamentais. Com suporte para filtros e buscas avançadas, o projeto facilita o acesso a dados públicos e estimula a fiscalização cidadã, o jornalismo de dados e a participação popular. É uma iniciativa 100% livre, voltada à transparência e ao controle social. ",
     "url": "/projetos.html#peba",
     
     "relUrl": "/projetos.html#peba"
-  },"13": {
+  },"14": {
     "doc": "Projetos",
     "title": "Mão Amiga",
     "content": "O Mão Amiga foi um projeto colaborativo para produzir próteses de mão em impressão 3D, com baixo custo e foco em acessibilidade. A iniciativa envolveu oficinas abertas, produção local e entrega gratuita para pessoas que precisavam. A ideia era simples: usar o conhecimento coletivo e as ferramentas digitais para criar soluções reais, humanas e replicáveis. Essa página será atualizada conforme novos projetos forem surgindo ou sendo documentados. Se você participou de algo, tem uma ideia ou quer propor uma nova iniciativa, fale com a gente. ",
     "url": "/projetos.html#m%C3%A3o-amiga",
     
     "relUrl": "/projetos.html#mão-amiga"
-  },"14": {
+  },"15": {
     "doc": "Sobre",
     "title": "Sobre o Teresina Hacker Clube",
     "content": "THC: Teresina Hacker Clube. (Não confundir com o outro THC — embora ambos provoquem expansão da mente.) . O Teresina Hacker Clube surgiu em 2014 com uma proposta ousada: criar, no coração do Piauí, um espaço aberto onde qualquer pessoa pudesse experimentar, aprender e compartilhar tecnologia de forma livre e colaborativa. Mais do que um espaço físico, o THC nasceu como um ponto de encontro para quem acredita que a curiosidade é mais importante do que qualquer diploma. Ao longo dos anos, se tornou lar de oficinas, debates, projetos sociais, eventos e gambiarras — reunindo gente de todas as idades e formações. De impressoras 3D montadas em grupo a próteses de mão feitas em plástico, de aulas de HTML para crianças a robôs programados coletivamente — o THC sempre foi movido por um ideal simples: conhecimento deve ser acessível, compartilhado e transformador. Nosso compromisso é com a cultura hacker no sentido mais bonito da palavra: ética, liberdade, colaboração e criatividade aplicada à vida real. ",
     "url": "/sobre.html#sobre-o-teresina-hacker-clube",
     
     "relUrl": "/sobre.html#sobre-o-teresina-hacker-clube"
-  },"15": {
+  },"16": {
     "doc": "Sobre",
     "title": "Antes de compilar",
     "content": "Algumas linhas de código-fonte que nos movem — princípios simples, meio manifesto, meio gambiarra filosófica: . 0. Gostar de aprender. 1. Gostar de ensinar. 2. Respeitar as diferenças. 3. Compartilhar conhecimento sempre que possível. 4. Fazer junto é melhor do que fazer sozinho. 5. Gambiarras são válidas. 6. O erro é parte do processo. Se isso faz sentido pra você, talvez você já faça parte — só não sabia ainda. ",
     "url": "/sobre.html#antes-de-compilar",
     
     "relUrl": "/sobre.html#antes-de-compilar"
-  },"16": {
+  },"17": {
     "doc": "Sobre",
     "title": "Sobre",
     "content": " ",
