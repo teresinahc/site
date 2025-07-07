@@ -1,4 +1,9 @@
-## Como Participar do Teresina Hacker Clube
+---
+title: Como Participar
+nav_order: 5
+---
+
+# Como participar do Teresina Hacker Clube
 
 Antes de tudo: a porta tá aberta. Basta querer aprender, compartilhar e fazer junto.  
 Mas temos um jeitinho próprio de funcionar — e vale conhecer:
