@@ -1,6 +1,6 @@
 ---
 title: Como Participar
-nav_order: 5
+nav_order: 6
 ---
 
 # Como participar do Teresina Hacker Clube

@@ -1,6 +1,6 @@
 ---
-title: Apoio
-nav_order: 6
+title: Apoie o THC
+nav_order: 7
 ---
 
 # Apoie o THC
@@ -16,5 +16,4 @@ Enquanto isso, você pode apoiar o THC de outras formas:
 - Cedendo espaços para encontros e oficinas
 - Divulgando o nosso trabalho para outras pessoas
 
-Se você quer apoiar de alguma forma, entre em contato por e-mail:  
-**contato@teresinahacker.club**
+Se você quer apoiar de alguma forma, entre em contato por e-mail: [**contato@teresinahacker.club**](mailto:contato@teresinahacker.club)

@@ -6,88 +6,102 @@
     
     "relUrl": "/agenda.html"
   },"1": {
-    "doc": "Apoio",
+    "doc": "Apoie o THC",
     "title": "Apoie o THC",
     "content": "O Teresina Hacker Clube é um espaço independente, mantido por pessoas voluntárias, com amor, tempo e esforço coletivo. Ainda não temos uma campanha de apoio financeiro recorrente (como apoia.se ou similar), mas estamos planejando isso para breve. Enquanto isso, você pode apoiar o THC de outras formas: . | Oferecendo seu tempo ou conhecimento | Doando equipamentos, ferramentas, materiais ou livros | Cedendo espaços para encontros e oficinas | Divulgando o nosso trabalho para outras pessoas | . Se você quer apoiar de alguma forma, entre em contato por e-mail: contato@teresinahacker.club . ",
-    "url": "/apoio.html#apoie-o-thc",
-    
-    "relUrl": "/apoio.html#apoie-o-thc"
-  },"2": {
-    "doc": "Apoio",
-    "title": "Apoio",
-    "content": " ",
     "url": "/apoio.html",
     
     "relUrl": "/apoio.html"
+  },"2": {
+    "doc": "O que é um Hackerspace?",
+    "title": "O que é um Hackerspace?",
+    "content": "Um hackerspace é um espaço aberto, colaborativo e comunitário onde pessoas curiosas se reúnem para aprender, compartilhar conhecimento e desenvolver projetos. São ambientes onde a experimentação é incentivada, o erro é parte do processo, e a criatividade é bem-vinda — independentemente da formação ou idade. Hackerspaces são movidos por valores como cultura livre, ciência aberta, educação e autonomia tecnológica. Muitos oferecem oficinas, mantêm laboratórios com ferramentas (como impressoras 3D, solda, eletrônica, etc.) e organizam eventos para a comunidade. ",
+    "url": "/hackerspaces.html",
+    
+    "relUrl": "/hackerspaces.html"
   },"3": {
+    "doc": "O que é um Hackerspace?",
+    "title": "Alguns hackerspaces pelo mundo",
+    "content": "Brasil . | Teresina Hacker Clube (THC) — Teresina/PI (Nós! ❤️) | Raul Hacker Clube — Salvador/BA (raulhc.cc) | Garoa Hacker Clube — São Paulo/SP (garoa.net.br) | Laboratório Hacker de Campinas (LHC) — Campinas/SP (lhc.net.br) | Calango Hacker Clube — Brasília/DF (calango.club) | MateHackers — Porto Alegre/RS (matehackers.org) | . Américas . | Noisebridge — San Francisco, EUA (noisebridge.net) | NYC Resistor — New York, EUA (nycresistor.com) | Crash Space — Los Angeles, EUA (crashspace.org) | Quelab — Albuquerque, EUA (quelab.net) | Hackfun — Rosario, Argentina (hackfunrosario.com) | RLab — Buenos Aires, Argentina (rlab.be) | . Europa . | Metalab — Viena, Áustria (metalab.at) | C-Base — Berlim, Alemanha (c-base.org) | Hackerspace Brussels — Bruxelas, Bélgica (hsbxl.be) | Hackerspace Kraków — Cracóvia, Polônia (hackerspace-krk.pl) | . Ásia e outros . | Tokyo Hacker Space — Tóquio, Japão (tokyohackerspace.org) | HackerspaceSG — Singapura (hackerspace.sg) | DimSumLabs — Hong Kong (dimsumlabs.com) | . Quer conhecer mais hackerspaces? Confira a lista mundial de hackerspaces mantida pela comunidade — são centenas de espaços incríveis esperando sua visita (ou inspiração)! . ",
+    "url": "/hackerspaces.html#alguns-hackerspaces-pelo-mundo",
+    
+    "relUrl": "/hackerspaces.html#alguns-hackerspaces-pelo-mundo"
+  },"4": {
     "doc": "Início",
     "title": "Teresina Hacker Clube",
     "content": "Um hackerspace em construção coletiva desde 2014. Tecnologia, liberdade, aprendizado, gambiarras e encontros que transformam. Saiba mais em Sobre ou veja Como Participar. “Muita gente pequena, em lugares pequenos, fazendo coisas pequenas, pode mudar o mundo.” — Eduardo Galeano . ",
     "url": "/#teresina-hacker-clube",
     
     "relUrl": "/#teresina-hacker-clube"
-  },"4": {
+  },"5": {
     "doc": "Início",
     "title": "Início",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
-  },"5": {
+  },"6": {
     "doc": "Como Participar",
     "title": "Como participar do Teresina Hacker Clube",
     "content": "Antes de tudo: a porta tá aberta. Basta querer aprender, compartilhar e fazer junto. Mas temos um jeitinho próprio de funcionar — e vale conhecer: . Nossos princípios (não-chatos) . | Compartilhar é prioridade. | Pergunte ideias, não intenções. | Ajude com soluções (não só com problemas). | Respeite todas as pessoas, sempre. | Valorize quem recebe — e quem oferece. | Somos exemplos do que queremos construir. | . O que fazer antes de chegar quebrando tudo . | Conheça nosso site e os projetos do THC. | Entre no nosso grupo do Telegram → telegram.teresinahacker.club | Dá uma olhada na agenda (rolam encontros e oficinas). | Leia os valores do clube (tá tudo espalhado pelas páginas). | Se quiser, conta pra gente quem é você e o que curte fazer. | . Quando quiser por a mão na massa . | Apareça num evento (ou marque algo com a galera). | Traga um projeto — pode ser hardware, software, ideias ou bagunça. | Se precisar de ajuda, pede no grupo. | Se puder ajudar, ofereça no grupo. | Pode documentar, filmar, publicar… só respeita quem tá por perto. | . Quer colaborar de outras formas? . | Divulgue o clube. | Indique para escolas, eventos ou coletivos. | Apoie com equipamentos ou insumos (veja a seção de apoio). | Tem espaço e quer virar sede? Fala com a gente! | . Última dica . O THC já teve sede física e quer voltar a ter. Enquanto isso, somos comunidade nômade, digital e resistente. Toda contribuição (humana ou técnica) fortalece a construção. ",
     "url": "/participar.html#como-participar-do-teresina-hacker-clube",
     
     "relUrl": "/participar.html#como-participar-do-teresina-hacker-clube"
-  },"6": {
+  },"7": {
     "doc": "Como Participar",
     "title": "Como Participar",
     "content": " ",
     "url": "/participar.html",
     
     "relUrl": "/participar.html"
-  },"7": {
+  },"8": {
     "doc": "Projetos",
     "title": "Projetos",
-    "content": "O Teresina Hacker Clube é um espaço para criar, experimentar e compartilhar. Ao longo dos anos, desenvolvemos algumas iniciativas que misturam tecnologia, criatividade e transformação social. ",
+    "content": "Aqui você encontra algumas das iniciativas que desenvolvemos (ou estamos desenvolvendo) no Teresina Hacker Clube. Se quiser colaborar com algum projeto, dar ideias ou propor novos, fique à vontade para entrar em contato! . ",
     "url": "/projetos.html",
     
     "relUrl": "/projetos.html"
-  },"8": {
+  },"9": {
     "doc": "Projetos",
     "title": "Peba",
-    "content": "Repositório no GitHub . O Peba é um sistema de indexação e busca que reúne, em uma fonte única, informações relacionadas às despesas de várias entidades governamentais. Com suporte para filtros e buscas avançadas, o projeto facilita o acesso a dados públicos e estimula a fiscalização cidadã, o jornalismo de dados e a participação popular. É uma iniciativa 100% livre, voltada à transparência e ao controle social. ",
+    "content": "Repositório no GitHub . O Peba é um sistema que indexa em fonte única informações relacionadas às despesas de várias entidades governamentais, com suporte para filtros e buscas avançadas. O objetivo é tornar mais acessível o acompanhamento de gastos públicos e estimular a cultura de dados abertos. ",
     "url": "/projetos.html#peba",
     
     "relUrl": "/projetos.html#peba"
-  },"9": {
+  },"10": {
     "doc": "Projetos",
     "title": "Mão Amiga",
-    "content": "O Mão Amiga foi um projeto colaborativo para produzir próteses de mão em impressão 3D, com baixo custo e foco em acessibilidade. A iniciativa envolveu oficinas abertas, produção local e entrega gratuita para pessoas que precisavam. A ideia era simples: usar o conhecimento coletivo e as ferramentas digitais para criar soluções reais, humanas e replicáveis. Essa página será atualizada conforme novos projetos forem surgindo ou sendo documentados. Se você participou de algo, tem uma ideia ou quer propor uma nova iniciativa, fale com a gente. ",
+    "content": "O Mão Amiga é uma iniciativa para produção e doação de próteses feitas em impressoras 3D. Ainda em fase de reestruturação, o projeto já promoveu ações colaborativas em escolas e eventos, conectando tecnologia com impacto social. ",
     "url": "/projetos.html#m%C3%A3o-amiga",
     
     "relUrl": "/projetos.html#mão-amiga"
-  },"10": {
-    "doc": "Sobre",
-    "title": "Sobre o Teresina Hacker Clube",
-    "content": "THC: Teresina Hacker Clube. (Não confundir com o outro THC — embora ambos provoquem expansão da mente.) . O Teresina Hacker Clube surgiu em 2014 com uma proposta ousada: criar, no coração do Piauí, um espaço aberto onde qualquer pessoa pudesse experimentar, aprender e compartilhar tecnologia de forma livre e colaborativa. Mais do que um espaço físico, o THC nasceu como um ponto de encontro para quem acredita que a curiosidade é mais importante do que qualquer diploma. Ao longo dos anos, se tornou lar de oficinas, debates, projetos sociais, eventos e gambiarras — reunindo gente de todas as idades e formações. De impressoras 3D montadas em grupo a próteses de mão feitas em plástico, de aulas de HTML para crianças a robôs programados coletivamente — o THC sempre foi movido por um ideal simples: conhecimento deve ser acessível, compartilhado e transformador. Nosso compromisso é com a cultura hacker no sentido mais bonito da palavra: ética, liberdade, colaboração e criatividade aplicada à vida real. ",
-    "url": "/sobre.html#sobre-o-teresina-hacker-clube",
-    
-    "relUrl": "/sobre.html#sobre-o-teresina-hacker-clube"
   },"11": {
-    "doc": "Sobre",
+    "doc": "Projetos",
+    "title": "Hackids",
+    "content": "Repositório no GitHub . O Hackids é um projeto de conscientização digital voltado para crianças e adolescentes, com foco em cibersegurança, ética hacker e cultura digital. A ideia é levar oficinas leves, educativas (mas sérias quando necessário!) para escolas públicas e privadas — despertando o interesse por tecnologia, promovendo o pensamento crítico e oferecendo ferramentas para navegar com mais segurança na internet. As atividades vão desde bate-papos sobre redes sociais e privacidade até desmontagem de hardware, programação básica e uso consciente da inteligência artificial. Este projeto está em fase de estruturação — mas se você tem interesse em colaborar, seja como educador, voluntário ou apoiador, vem com a gente! . ",
+    "url": "/projetos.html#hackids",
+    
+    "relUrl": "/projetos.html#hackids"
+  },"12": {
+    "doc": "Sobre o THC",
+    "title": "Sobre o THC",
+    "content": "THC: Teresina Hacker Clube (ou ‘Tecnologia, Hacking e Cultura’ 😉). (Não confundir com o outro THC — embora ambos provoquem expansão da mente.) . O Teresina Hacker Clube surgiu em 2014 com uma proposta ousada: criar, no coração do Piauí, um espaço aberto onde qualquer pessoa pudesse experimentar, aprender e compartilhar tecnologia de forma livre e colaborativa. Mais do que um espaço físico, o THC nasceu como um ponto de encontro para quem acredita que a curiosidade é mais importante do que qualquer diploma. Ao longo dos anos, se tornou lar de oficinas, debates, projetos sociais, eventos e gambiarras — reunindo gente de todas as idades e formações. De impressoras 3D montadas em grupo a próteses de mão feitas em plástico, de aulas de HTML para crianças a robôs programados coletivamente — o THC sempre foi movido por um ideal simples: conhecimento deve ser acessível, compartilhado e transformador. Nosso compromisso é com a cultura hacker no sentido mais bonito da palavra: ética, liberdade, colaboração e criatividade aplicada à vida real. ",
+    "url": "/sobre.html",
+    
+    "relUrl": "/sobre.html"
+  },"13": {
+    "doc": "Sobre o THC",
     "title": "Nossas redes e contato",
     "content": ". | Instagram: @teresinahc | Facebook: facebook.com/TeresinaHC | Telegram: telegram.teresinahacker.club | GitHub: github.com/teresinahc | E-mail: contato@teresinahacker.club | . ",
     "url": "/sobre.html#nossas-redes-e-contato",
     
     "relUrl": "/sobre.html#nossas-redes-e-contato"
-  },"12": {
-    "doc": "Sobre",
-    "title": "Sobre",
-    "content": " ",
-    "url": "/sobre.html",
+  },"14": {
+    "doc": "Sobre o THC",
+    "title": "Rede Global",
+    "content": "O Teresina Hacker Clube faz parte da rede global de hackerspaces e tem uma página dedicada na wiki internacional dos hackerspaces, onde registramos nossa missão, contatos e histórico. Essa presença ajuda a conectar o THC com outras iniciativas similares pelo mundo — e mantém viva a cultura hacker em escala global. ",
+    "url": "/sobre.html#rede-global",
     
-    "relUrl": "/sobre.html"
+    "relUrl": "/sobre.html#rede-global"
   }
 }
