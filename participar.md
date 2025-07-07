@@ -1,68 +1,51 @@
----
-title: Como Participar
-nav_order: 5
----
+## Como Participar do Teresina Hacker Clube
 
-# Como Participar
-
-Quer colar com a gente? Aqui tem algumas formas de participar, colaborar e ajudar o THC a continuar pulsando.
+Antes de tudo: a porta tá aberta. Basta querer aprender, compartilhar e fazer junto.  
+Mas temos um jeitinho próprio de funcionar — e vale conhecer:
 
 ---
 
-## Sede Física
+### Nossos princípios (não-chatos)
 
-O Teresina Hacker Clube já teve uma sede física — espaço aberto, de uso coletivo e com muito afeto envolvido.
-
-Hoje estamos tentando retomar esse espaço ou encontrar um novo lugar para chamar de nosso. Enquanto isso, nossas atividades estão sendo organizadas online ou em espaços parceiros (escolas, universidades, eventos, oficinas comunitárias etc).
-
-Se você tem interesse em ajudar com isso (inclusive com local ou parcerias), fala com a gente.
-
----
-
-## Lista de E-mail
-
-Estamos estruturando uma lista de discussão pública para trocas, avisos e convites.
-
-Enquanto isso, se quiser receber novidades ou trocar uma ideia, envie um e-mail para:  
-**contato@teresinahacker.club**
+- Compartilhar é prioridade.  
+- Pergunte ideias, não intenções.  
+- Ajude com soluções (não só com problemas).  
+- Respeite todas as pessoas, sempre.  
+- Valorize quem recebe — e quem oferece.  
+- Somos exemplos do que queremos construir.
 
 ---
 
-## Encontros Presenciais e Virtuais
+### O que fazer antes de chegar quebrando tudo
 
-Em breve vamos retomar os encontros abertos (virtuais e presenciais) com temas como:
-
-- Cultura hacker, software livre e autonomia digital
-- Oficinas de eletrônica, robótica e segurança
-- Leituras coletivas e debates sobre tecnologia e sociedade
-- Construção colaborativa do novo momento do THC
-
-Se quiser propor uma atividade ou ajudar a organizar, chega junto.
+1. **Conheça nosso site** e os projetos do THC.  
+2. **Entre no nosso grupo do Telegram** → [telegram.teresinahacker.club](https://telegram.teresinahacker.club)  
+3. **Dá uma olhada na agenda** (rolam encontros e oficinas).  
+4. **Leia os valores do clube** (tá tudo espalhado pelas páginas).  
+5. Se quiser, conta pra gente quem é você e o que curte fazer.
 
 ---
 
-## Canais de Comunicação
+### Quando quiser por a mão na massa
 
-- Telegram (grupo público): [telegram.teresinahacker.club](https://telegram.teresinahacker.club)
-- Instagram: [@teresinahc](https://instagram.com/teresinahc)
-- Facebook: [facebook.com/TeresinaHC](https://www.facebook.com/TeresinaHC/)
-- E-mail: [contato@teresinahacker.club](mailto:contato@teresinahacker.club)
-
----
-
-## Git & Projetos
-
-Nossos projetos e experimentações são abertos — e todo mundo pode ver, sugerir ou contribuir.
-
-- [github.com/teresinahc](https://github.com/teresinahc)
+1. Apareça num evento (ou marque algo com a galera).  
+2. Traga um projeto — pode ser hardware, software, ideias ou bagunça.  
+3. Se precisar de ajuda, pede no grupo.  
+4. Se puder ajudar, ofereça no grupo.  
+5. Pode documentar, filmar, publicar... só respeita quem tá por perto.
 
 ---
 
-## Apoio Coletivo
+### Quer colaborar de outras formas?
 
-O THC é mantido por pessoas comuns com sonhos coletivos.  
-Ainda estamos estruturando formas de apoio recorrente, como campanhas mensais.
+- Divulgue o clube.  
+- Indique para escolas, eventos ou coletivos.  
+- Apoie com equipamentos ou insumos (veja a seção de apoio).  
+- Tem espaço e quer virar sede? Fala com a gente!
 
-Mas, se você quiser ajudar com ideias, equipamentos, divulgação ou qualquer outra forma de apoio, só chamar.
+---
 
-> **"Conhecimento compartilhado é poder multiplicado."**
+### Última dica
+
+O THC já teve sede física e quer voltar a ter. Enquanto isso, somos comunidade nômade, digital e resistente.  
+Toda contribuição (humana ou técnica) fortalece a construção.
