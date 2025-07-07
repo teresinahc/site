@@ -15,3 +15,11 @@ Mais do que um espaço físico, o THC nasceu como um ponto de encontro para quem
 De impressoras 3D montadas em grupo a próteses de mão feitas em plástico, de aulas de HTML para crianças a robôs programados coletivamente — o THC sempre foi movido por um ideal simples: **conhecimento deve ser acessível, compartilhado e transformador**.
 
 Nosso compromisso é com a cultura hacker no sentido mais bonito da palavra: ética, liberdade, colaboração e criatividade aplicada à vida real.
+
+## Nossas redes e contato
+
+- Instagram: [@teresinahc](https://instagram.com/teresinahc)
+- Facebook: [facebook.com/TeresinaHC](https://facebook.com/TeresinaHC)
+- Telegram: [telegram.teresinahacker.club](https://telegram.teresinahacker.club)
+- GitHub: [github.com/teresinahc](https://github.com/teresinahc)
+- E-mail: [contato@teresinahacker.club](mailto:contato@teresinahacker.club)
