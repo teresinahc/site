@@ -1,9 +1,9 @@
 title: Teresina Hacker Clube
-description: O primeiro hackerspace do Piauí, Brasil.
+description: O primeiro hackerspace do Piauí.
 remote_theme: just-the-docs/just-the-docs
 url: https://teresinahacker.club
 color_scheme: dark
-logo: /assets/images/logo.png
+logo: /assets/images/logo_1.png
 favicon_ico: /assets/images/thc_logo.png
 just_the_docs:
   footer_content: none
