@@ -24,7 +24,7 @@ Mas temos um jeitinho próprio de funcionar — e vale conhecer:
 ### O que fazer antes de chegar quebrando tudo
 
 1. **Conheça nosso site** e os projetos do THC.  
-2. **Entre no nosso grupo do Telegram** → [telegram.teresinahacker.club](https://telegram.teresinahacker.club)  
+2. **Entre no nosso grupo do Telegram** → [t.me/teresinahc](https://t.me/teresinahc)  
 3. **Dá uma olhada na agenda** (rolam encontros e oficinas).  
 4. **Leia os valores do clube** (tá tudo espalhado pelas páginas).  
 5. Se quiser, conta pra gente quem é você e o que curte fazer.

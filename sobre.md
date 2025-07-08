@@ -20,7 +20,7 @@ Nosso compromisso é com a cultura hacker no sentido mais bonito da palavra: ét
 
 - Instagram: [@teresinahc](https://instagram.com/teresinahc)
 - Facebook: [facebook.com/TeresinaHC](https://facebook.com/TeresinaHC)
-- Telegram: [telegram.teresinahacker.club](https://telegram.teresinahacker.club)
+- Telegram: [t.me/teresinahc](https://t.me/teresinahc)
 - GitHub: [github.com/teresinahc](https://github.com/teresinahc)
 - E-mail: [contato@teresinahacker.club](mailto:contato@teresinahacker.club)
 

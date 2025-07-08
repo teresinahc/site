@@ -11,7 +11,7 @@ A ideia é organizar oficinas, bate-papos, eventos e outras ações ligadas à c
 
 Enquanto não temos uma agenda fixa, você pode acompanhar os anúncios:
 
-- Telegram (grupo público): [telegram.teresinahacker.club](https://telegram.teresinahacker.club)
+- Telegram (grupo público): [t.me/teresinahc](https://t.me/teresinahc)
 - Instagram: [@teresinahc](https://instagram.com/teresinahc)
 - Facebook: [facebook.com/TeresinaHC](https://www.facebook.com/TeresinaHC/)
 - E futuramente, por uma lista de e-mails ou grupo aberto
