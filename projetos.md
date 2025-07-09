@@ -21,6 +21,8 @@ O objetivo é tornar mais acessível o acompanhamento de gastos públicos e esti
 
 ## Mão Amiga
 
+[Repositório no GitHub](https://github.com/teresinahc/mao-amiga)
+
 O Mão Amiga é uma iniciativa para produção e doação de próteses feitas em impressoras 3D.
 
 Ainda em fase de reestruturação, o projeto já promoveu ações colaborativas em escolas e eventos, conectando tecnologia com impacto social.
