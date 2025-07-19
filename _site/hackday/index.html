@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="refresh" content="5; url=https://tally.so/r/wapvqW" />
+  <title>Redirecionando...</title>
+  <style>
+    body {
+      background-color: #27262B;
+      color: #fff;
+      font-family: "Segoe UI", Roboto, sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    a {
+      color: #20c933;
+      text-decoration: underline;
+    }
+
+    span#contador {
+      font-weight: bold;
+      color: #20c933;
+    }
+  </style>
+</head>
+<body>
+  <h1>Redirecionando para o formulário...</h1>
+  <p>Você será redirecionado em <span id="contador">5</span> segundos.</p>
+  <p><a href="https://tally.so/r/wapvqW">Clique aqui</a> se não for redirecionado automaticamente.</p>
+
+  <script>
+    let segundos = 5;
+    const span = document.getElementById('contador');
+    const intervalo = setInterval(() => {
+      segundos--;
+      span.textContent = segundos;
+      if (segundos === 0) {
+        clearInterval(intervalo);
+      }
+    }, 1000);
+  </script>
+</body>
+</html>
