@@ -5,11 +5,6 @@ nav_order: 1
 nav_exclude: false
 ---
 
-<div style="background: #000; color: #fff; padding: 1rem; text-align: center; border-radius: 6px; margin-bottom: 2rem;">
-  <strong>📣 Está aberta a chamada de trabalhos para o Teresina Hack Day!</strong><br>
-  <a href="/call4papers" style="color: #ffd700; text-decoration: underline;">Envie sua proposta!</a>
-</div>
-
 # Teresina Hacker Clube
 
 Um hackerspace em construção coletiva desde 2014.
