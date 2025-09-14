@@ -31,6 +31,44 @@ Organizado pelo **Teresina Hacker Clube** e pela **APISoL**, o evento une:
 
 Um dia inteiro de trocas, experimentações e muito hacking! ☠️
 
+## 📋 Programação
+
+### 🌅 Manhã (08h–12h)
+
+**08:00 – 09:00** · **Mesa Redonda de Abertura: Cultura Colaborativa e Comunidades Tech em Teresina**  
+*Representantes de Comunidades Tech locais*
+
+**09:05 – 09:50** · **Seu PostgreSQL Finalmente Aprendeu a Pensar**  
+*Higor Vinicius Macedo da Silva Monteiro*
+
+**09:55 – 10:25** · **EtiCCista: por uma formação mais ética e inclusiva em Computação**  
+*Ana Carolina Sousa Dias*
+
+**10:30 – 11:15** · **Go em 2025? Além do DevOps e Scripts: APIs com Velocidade, Confiabilidade e Simplicidade**  
+*Augusto Alves Silva*
+
+**11:20 – 11:50** · **Ciência automatizada para todos**  
+*Edwar Davila Montenegro*
+
+### 🌇 Tarde (14h–18h)
+
+**14:00 – 15:00** · **Privacidade Está Morta? O Custo Social do Monitoramento Digital**  
+*André Luís Portela Neves*
+
+**15:05 – 15:35** · **Como comprar um computador custo benefício**  
+*Dann Luciano*
+
+**15:40 – 16:10** · **Open Source, a espinha dorsal da internet: de usuário a criador**  
+*Pedro Luis Dias*
+
+**16:15 – 16:45** · **Redes (pouco) sociais e algoritmos: o que fazer?**  
+*Nilton Santos*
+
+**16:50 – 17:20** · **Lightning Talks (30 min)**  
+*espaço aberto para a comunidade compartilhar*
+
+---
+
 ## 🚀 O que esperar?
 
 O **Teresina Hack Day** volta com força total e será um evento **semestral**, como sempre foi pensado. Um espaço aberto para:
