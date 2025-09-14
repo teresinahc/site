@@ -3,13 +3,13 @@ title: Teresina Hack Day 2025
 nav_order: 7
 ---
 
-# 🚀 Teresina Hack Day 2025
+# Teresina Hack Day 2025
+
+<img src="/assets/images/thd_logo.png" alt="Logo Teresina Hack Day" style="max-width: 750px; height: auto; margin: 20px 0;">
 
 **O retorno de um dos eventos mais queridos da comunidade hacker e maker de Teresina e região!**
 
 Depois de quase 7 anos de hiato, o Teresina Hacker Clube tem o orgulho de anunciar o retorno do **Teresina Hack Day** — um espaço aberto para compartilhar ideias, projetos, aprendizados e inquietações que podem transformar a sociedade.
-
-## 📅 Data e Local
 
 **📅 Data:** 20 de setembro de 2025 (sábado)  
 **📍 Local:** Auditório Prof. Afonso Sena Gonçalves  
@@ -20,7 +20,7 @@ Depois de quase 7 anos de hiato, o Teresina Hacker Clube tem o orgulho de anunci
 
 [📍 Ver no Google Maps](https://maps.app.goo.gl/XcpEoUmzAQxy8mtb8)
 
-## 🎯 Sobre o Evento
+## Sobre o Evento
 
 Organizado pelo **Teresina Hacker Clube** e pela **APISoL**, o evento une:
 
@@ -32,9 +32,9 @@ Organizado pelo **Teresina Hacker Clube** e pela **APISoL**, o evento une:
 
 Um dia inteiro de trocas, experimentações e muito hacking! ☠️
 
-## 📋 Programação
+## Programação
 
-### 🌅 Manhã (08h–12h)
+### Manhã (08h–12h)
 
 **08:00 – 09:00** · **Mesa Redonda de Abertura: Cultura Colaborativa e Comunidades Tech em Teresina**  
 *Representantes de Comunidades Tech locais*
@@ -51,7 +51,7 @@ Um dia inteiro de trocas, experimentações e muito hacking! ☠️
 **11:20 – 11:50** · **Ciência automatizada para todos**  
 *Edwar Davila Montenegro*
 
-### 🌇 Tarde (14h–18h)
+### Tarde (14h–18h)
 
 **14:00 – 15:00** · **Privacidade Está Morta? O Custo Social do Monitoramento Digital**  
 *André Luís Portela Neves*
@@ -70,7 +70,7 @@ Um dia inteiro de trocas, experimentações e muito hacking! ☠️
 
 ---
 
-## 🚀 O que esperar?
+## O que esperar?
 
 O **Teresina Hack Day** volta com força total e será um evento **semestral**, como sempre foi pensado. Um espaço aberto para:
 
@@ -80,7 +80,7 @@ O **Teresina Hack Day** volta com força total e será um evento **semestral**, 
 - Experimentar tecnologias
 - Debater sobre o futuro da tecnologia
 
-## 📢 Como acompanhar
+## Como acompanhar
 
 Fique ligado nas nossas redes sociais para não perder nenhuma novidade:
 
@@ -88,7 +88,7 @@ Fique ligado nas nossas redes sociais para não perder nenhuma novidade:
 - 📸 **Instagram:** [@teresinahc](https://instagram.com/teresinahc)
 - 📘 **Facebook:** [facebook.com/TeresinaHC](https://www.facebook.com/TeresinaHC/)
 
-## 🤝 Organização
+## Organização
 
 **Teresina Hacker Clube** + **APISoL**
 
