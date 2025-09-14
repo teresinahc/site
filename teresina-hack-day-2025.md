@@ -1,6 +1,6 @@
 ---
 title: Teresina Hack Day 2025
-nav_order: 7
+nav_exclude: true
 ---
 
 # Teresina Hack Day 2025
