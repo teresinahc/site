@@ -1,0 +1,45 @@
+/* Custom CSS for Teresina Hacker Clube */
+
+/* Responsive image styling for event pages */
+.event-logo {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Mobile-first responsive design */
+@media (max-width: 768px) {
+    .event-logo {
+        max-width: 90%;
+        margin: 15px auto;
+    }
+}
+
+@media (max-width: 480px) {
+    .event-logo {
+        max-width: 85%;
+        margin: 10px auto;
+    }
+}
+
+/* Ensure iframe maps are also responsive */
+.responsive-iframe {
+    width: 100%;
+    height: 300px;
+    border: 0;
+}
+
+@media (max-width: 768px) {
+    .responsive-iframe {
+        height: 250px;
+    }
+}
+
+@media (max-width: 480px) {
+    .responsive-iframe {
+        height: 200px;
+    }
+}
