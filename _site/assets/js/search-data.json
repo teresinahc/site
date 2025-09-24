@@ -36,123 +36,116 @@
   },"5": {
     "doc": "Início",
     "title": "Teresina Hacker Clube",
-    "content": "Um hackerspace em construção coletiva desde 2014. Tecnologia, liberdade, aprendizado, gambiarras e encontros que transformam. ",
+    "content": "Um hackerspace em construção coletiva desde 2014. Tecnologia, liberdade, aprendizado, gambiarras e encontros que transformam. Saiba mais em Sobre ou veja Como Participar. “Muita gente pequena, em lugares pequenos, fazendo coisas pequenas, pode mudar o mundo.” — Eduardo Galeano . ",
     "url": "/#teresina-hacker-clube",
     
     "relUrl": "/#teresina-hacker-clube"
   },"6": {
-    "doc": "Início",
-    "title": "🚀 Próximo Evento: Teresina Hack Day 2025",
-    "content": "📅 20 de setembro de 2025 (sábado) 📍 Auditório Prof. Afonso Sena Gonçalves 🎫 Entrada 100% gratuita! . Depois de quase 7 anos de hiato, o retorno de um dos eventos mais queridos da comunidade hacker e maker de Teresina e região! . | 📋 Saiba mais sobre o evento | 📍 Ver localização | . Saiba mais em Sobre ou veja Como Participar. “Muita gente pequena, em lugares pequenos, fazendo coisas pequenas, pode mudar o mundo.” — Eduardo Galeano . ",
-    "url": "/#-pr%C3%B3ximo-evento-teresina-hack-day-2025",
-    
-    "relUrl": "/#-próximo-evento-teresina-hack-day-2025"
-  },"7": {
     "doc": "Início",
     "title": "Início",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
-  },"8": {
+  },"7": {
     "doc": "Como Participar",
     "title": "Como participar do Teresina Hacker Clube",
     "content": "Antes de tudo: a porta tá aberta. Basta querer aprender, compartilhar e fazer junto. Mas temos um jeitinho próprio de funcionar — e vale conhecer: . Nossos princípios (não-chatos) . | Compartilhar é prioridade. | Pergunte ideias, não intenções. | Ajude com soluções (não só com problemas). | Respeite todas as pessoas, sempre. | Valorize quem recebe — e quem oferece. | Somos exemplos do que queremos construir. | . O que fazer antes de chegar quebrando tudo . | Conheça nosso site e os projetos do THC. | Entre no nosso grupo do Telegram → t.me/teresinahc | Dá uma olhada na agenda (rolam encontros e oficinas). | Leia os valores do clube (tá tudo espalhado pelas páginas). | Se quiser, conta pra gente quem é você e o que curte fazer. | . Quando quiser por a mão na massa . | Apareça num evento (ou marque algo com a galera). | Traga um projeto — pode ser hardware, software, ideias ou bagunça. | Se precisar de ajuda, pede no grupo. | Se puder ajudar, ofereça no grupo. | Pode documentar, filmar, publicar… só respeita quem tá por perto. | . Quer colaborar de outras formas? . | Divulgue o clube. | Indique para escolas, eventos ou coletivos. | Apoie com equipamentos ou insumos (veja a seção de apoio). | Tem espaço e quer virar sede? Fala com a gente! | . Última dica . O THC já teve sede física e quer voltar a ter. Enquanto isso, somos comunidade nômade, digital e resistente. Toda contribuição (humana ou técnica) fortalece a construção. ",
     "url": "/participar.html#como-participar-do-teresina-hacker-clube",
     
     "relUrl": "/participar.html#como-participar-do-teresina-hacker-clube"
-  },"9": {
+  },"8": {
     "doc": "Como Participar",
     "title": "Como Participar",
     "content": " ",
     "url": "/participar.html",
     
     "relUrl": "/participar.html"
-  },"10": {
+  },"9": {
     "doc": "Projetos",
     "title": "Projetos",
     "content": "Aqui você encontra algumas das iniciativas que desenvolvemos (ou estamos desenvolvendo) no Teresina Hacker Clube. Se quiser colaborar com algum projeto, dar ideias ou propor novos, fique à vontade para entrar em contato! . ",
     "url": "/projetos.html",
     
     "relUrl": "/projetos.html"
-  },"11": {
+  },"10": {
     "doc": "Projetos",
     "title": "Peba",
     "content": "Repositório no GitHub . O Peba é um sistema que indexa em fonte única informações relacionadas às despesas de várias entidades governamentais, com suporte para filtros e buscas avançadas. O objetivo é tornar mais acessível o acompanhamento de gastos públicos e estimular a cultura de dados abertos. ",
     "url": "/projetos.html#peba",
     
     "relUrl": "/projetos.html#peba"
-  },"12": {
+  },"11": {
     "doc": "Projetos",
     "title": "Mão Amiga",
     "content": "Repositório no GitHub . O Mão Amiga é uma iniciativa para produção e doação de próteses feitas em impressoras 3D. Ainda em fase de reestruturação, o projeto já promoveu ações colaborativas em escolas e eventos, conectando tecnologia com impacto social. ",
     "url": "/projetos.html#m%C3%A3o-amiga",
     
     "relUrl": "/projetos.html#mão-amiga"
-  },"13": {
+  },"12": {
     "doc": "Projetos",
     "title": "Hackids",
     "content": "Repositório no GitHub . O Hackids é um projeto de conscientização digital voltado para crianças e adolescentes, com foco em cibersegurança, ética hacker e cultura digital. A ideia é levar oficinas leves, educativas (mas sérias quando necessário!) para escolas públicas e privadas — despertando o interesse por tecnologia, promovendo o pensamento crítico e oferecendo ferramentas para navegar com mais segurança na internet. As atividades vão desde bate-papos sobre redes sociais e privacidade até desmontagem de hardware, programação básica e uso consciente da inteligência artificial. Este projeto está em fase de estruturação — mas se você tem interesse em colaborar, seja como educador, voluntário ou apoiador, vem com a gente! . ",
     "url": "/projetos.html#hackids",
     
     "relUrl": "/projetos.html#hackids"
-  },"14": {
+  },"13": {
     "doc": "Sobre o THC",
     "title": "Sobre o THC",
     "content": "THC: Teresina Hacker Clube (ou ‘Tecnologia, Hacking e Cultura’ 😉). (Não confundir com o outro THC — embora ambos provoquem expansão da mente.) . O Teresina Hacker Clube surgiu em 2014 com uma proposta ousada: criar, no coração do Piauí, um espaço aberto onde qualquer pessoa pudesse experimentar, aprender e compartilhar tecnologia de forma livre e colaborativa. Mais do que um espaço físico, o THC nasceu como um ponto de encontro para quem acredita que a curiosidade é mais importante do que qualquer diploma. Ao longo dos anos, se tornou lar de oficinas, debates, projetos sociais, eventos e gambiarras — reunindo gente de todas as idades e formações. De impressoras 3D montadas em grupo a próteses de mão feitas em plástico, de aulas de HTML para crianças a robôs programados coletivamente — o THC sempre foi movido por um ideal simples: conhecimento deve ser acessível, compartilhado e transformador. Nosso compromisso é com a cultura hacker no sentido mais bonito da palavra: ética, liberdade, colaboração e criatividade aplicada à vida real. ",
     "url": "/sobre.html",
     
     "relUrl": "/sobre.html"
-  },"15": {
+  },"14": {
     "doc": "Sobre o THC",
     "title": "Nossas redes e contato",
     "content": ". | Instagram: @teresinahc | Facebook: facebook.com/TeresinaHC | Telegram: t.me/teresinahc | GitHub: github.com/teresinahc | E-mail: contato@teresinahacker.club | . ",
     "url": "/sobre.html#nossas-redes-e-contato",
     
     "relUrl": "/sobre.html#nossas-redes-e-contato"
-  },"16": {
+  },"15": {
     "doc": "Sobre o THC",
     "title": "Rede Global",
     "content": "O Teresina Hacker Clube faz parte da rede global de hackerspaces e tem uma página dedicada na wiki internacional dos hackerspaces, onde registramos nossa missão, contatos e histórico. Essa presença ajuda a conectar o THC com outras iniciativas similares pelo mundo — e mantém viva a cultura hacker em escala global. ",
     "url": "/sobre.html#rede-global",
     
     "relUrl": "/sobre.html#rede-global"
-  },"17": {
+  },"16": {
     "doc": "Teresina Hack Day 2025",
     "title": "Teresina Hack Day 2025",
     "content": ". O retorno de um dos eventos mais queridos da comunidade hacker e maker de Teresina e região! . Depois de quase 7 anos de hiato, o Teresina Hacker Clube tem o orgulho de anunciar o retorno do Teresina Hack Day — um espaço aberto para compartilhar ideias, projetos, aprendizados e inquietações que podem transformar a sociedade. 📅 Data: 20 de setembro de 2025 (sábado) 📍 Local: Auditório Prof. Afonso Sena Gonçalves 🎫 Entrada: 100% gratuita! 📝 Inscrições: Não obrigatórias! Quem desejar receber certificado, a inscrição será eletrônica, no dia do evento. 📍 Ver no Google Maps . ",
     "url": "/teresina-hack-day-2025.html",
     
     "relUrl": "/teresina-hack-day-2025.html"
-  },"18": {
+  },"17": {
     "doc": "Teresina Hack Day 2025",
     "title": "Sobre o Evento",
     "content": "Organizado pelo Teresina Hacker Clube e pela APISoL, o evento une: . | 🔬 Ciência | 🎨 Cultura | 🐧 Software Livre | 🔒 Segurança Digital | ⚡ E muito mais! | . Um dia inteiro de trocas, experimentações e muito hacking! ☠️ . ",
     "url": "/teresina-hack-day-2025.html#sobre-o-evento",
     
     "relUrl": "/teresina-hack-day-2025.html#sobre-o-evento"
-  },"19": {
+  },"18": {
     "doc": "Teresina Hack Day 2025",
     "title": "Programação",
     "content": "Manhã (08h–12h) . 08:00 – 09:00 · Mesa Redonda de Abertura: Cultura Colaborativa e Comunidades Tech em Teresina Representantes de Comunidades Tech locais . 09:05 – 09:50 · Seu PostgreSQL Finalmente Aprendeu a Pensar Higor Vinicius Macedo da Silva Monteiro . 09:55 – 10:25 · EtiCCista: por uma formação mais ética e inclusiva em Computação Ana Carolina Sousa Dias . 10:30 – 11:15 · Go em 2025? Além do DevOps e Scripts: APIs com Velocidade, Confiabilidade e Simplicidade Augusto Alves Silva . 11:20 – 11:50 · Ciência automatizada para todos Edwar Davila Montenegro . Tarde (14h–18h) . 14:00 – 15:00 · Privacidade Está Morta? O Custo Social do Monitoramento Digital André Luís Portela Neves . 15:05 – 15:35 · Como comprar um computador custo benefício Dann Luciano . 15:40 – 16:10 · Open Source, a espinha dorsal da internet: de usuário a criador Pedro Luis Dias . 16:15 – 16:45 · Redes (pouco) sociais e algoritmos: o que fazer? Nilton Santos . 16:50 – 17:20 · Lightning Talks (30 min) espaço aberto para a comunidade compartilhar . ",
     "url": "/teresina-hack-day-2025.html#programa%C3%A7%C3%A3o",
     
     "relUrl": "/teresina-hack-day-2025.html#programação"
-  },"20": {
+  },"19": {
     "doc": "Teresina Hack Day 2025",
     "title": "O que esperar?",
     "content": "O Teresina Hack Day volta com força total e será um evento semestral, como sempre foi pensado. Um espaço aberto para: . | Compartilhar ideias e projetos | Aprender e ensinar | Conectar pessoas da comunidade | Experimentar tecnologias | Debater sobre o futuro da tecnologia | . ",
     "url": "/teresina-hack-day-2025.html#o-que-esperar",
     
     "relUrl": "/teresina-hack-day-2025.html#o-que-esperar"
-  },"21": {
+  },"20": {
     "doc": "Teresina Hack Day 2025",
     "title": "Como acompanhar",
     "content": "Fique ligado nas nossas redes sociais para não perder nenhuma novidade: . | 📱 Telegram: t.me/teresinahc | 📸 Instagram: @teresinahc | 📘 Facebook: facebook.com/TeresinaHC | . ",
     "url": "/teresina-hack-day-2025.html#como-acompanhar",
     
     "relUrl": "/teresina-hack-day-2025.html#como-acompanhar"
-  },"22": {
+  },"21": {
     "doc": "Teresina Hack Day 2025",
     "title": "Organização",
     "content": "Teresina Hacker Clube + APISoL . E aí, bora??! 🚀 . ",
